@@ -24,7 +24,7 @@ class Settings():
 
         # configuracoes dos projeteis
         self.bullet_speed_factor = 3
-        self.bullet_width = 300
+        self.bullet_width = 10
         self.bullet_height = 15
         self.bullet_color = 60, 60, 60
         self.bullets_allowed = 3  # limitando o disparo de 3 projeteis
