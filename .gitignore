@@ -1,0 +1,13 @@
+# Ignorar dependências
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignorar cache e builds
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
