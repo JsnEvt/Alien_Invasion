@@ -31,4 +31,18 @@ O objetivo é eliminar todos os inimigos antes que eles alcancem a parte inferio
 
 1. **Clone o repositório**:
    ```bash
+   git clone https://github.com/JsnEvt/Alien_Invasion.git
+
+2. **Acesse a pasta do projeto**:
+   ```bash
+   cd Alien_Invasion
+   
+3. **Instale as dependências**:
+   ```bash
+   pip install pygame
+
+4. **Execute o jogo**:
+   ```bash
+   python alien_invasion.py
+   
    
