@@ -14,7 +14,7 @@ O objetivo é eliminar todos os inimigos antes que eles alcancem a parte inferio
 
 ## 🖼️ Captura de Tela
 
-![Screenshot do Jogo](./image/game.png)
+![Screenshot do Jogo](./image/alien_invasion.gif)
 
 > Substitua `screenshot.png` pelo nome da imagem que você colocar no repositório.
 
