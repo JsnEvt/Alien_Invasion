@@ -15,7 +15,7 @@ class Ship(Sprite):
         # para que possamos usa-lo em update(). (atributo de classe)
 
         # carrega a imagem da espaconave e obtem seu rectangulo
-        self.image = pygame.image.load('image/ship.bmp')
+        self.image = pygame.image.load('image/ship.png')
         self.rect = self.image.get_rect()
         self.screen_rect = screen.get_rect()
 
